@@ -40,7 +40,7 @@ También tengo algo de experiencia en desarrollo web por proyectos universitario
 
 Más allá de la tecnología, tengo conocimientos en Geopolítica, Historia, Economía y la Economía Política Global del Mundo Posoccidental. Estoy particularmente interesado en los mercados emergentes de lo que se conoce como el Sur Global, liderado por los países BRICS+.
 
-Antes de Tecnología estudié Comunicación y trabajé brevemente como reportero, después hice monitoreo de medios para una firma global de relaciones públicas durante algunos años. Por ese tiempo desarrollé tengo una fascinación por la Filosofía, en particular los campos relacionados con la Filosofía de la Mente, el Lenguaje y la Conciencia, que continua hasta el momento.
+Antes de Tecnología estudié Comunicación y trabajé brevemente como reportero, después hice monitoreo de medios para una firma global de relaciones públicas durante algunos años. Por ese tiempo desarrollé una fascinación por la Filosofía, en particular los campos relacionados con la Filosofía de la Mente, el Lenguaje y la Conciencia, que continua hasta el momento.
 
 Si estás buscando un profesional  versátil que pueda aportar un conjunto de habilidades diversas y multidisciplinarias y curiosidad por las tecnologías emergentes a tu equipo, no dudes en conectarte conmigo. Exploremos cómo podemos trabajar juntos para crear soluciones novedosas que ayuden a crear un mundo mejor para todos.
 
