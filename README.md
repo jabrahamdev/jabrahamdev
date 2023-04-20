@@ -44,4 +44,4 @@ Antes de Tecnología estudié Comunicación y trabajé brevemente como reportero
 
 Si estás buscando un profesional  versátil que pueda aportar un conjunto de habilidades diversas y multidisciplinarias y curiosidad por las tecnologías emergentes a tu equipo, no dudes en conectarte conmigo. Exploremos cómo podemos trabajar juntos para crear soluciones novedosas que ayuden a crear un mundo mejor para todos.
 
-[Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_Resume_April23.pdf)
+[Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_CV_Abril23.pdf)
