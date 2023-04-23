@@ -27,6 +27,7 @@ If you are searching for an enthusiastic and versatile professional who can brin
 
 ____
 
+# Perfil  |  [Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_CV_Mayo23.pdf)
 
 Mi nombre es Abraham, soy un Machine Learning-Data Engineer principiante ubicado en la Ciudad de México. Tengo experiencia en proyectos de cursos con el stack de tecnologías de Data Science/Deep Learning: Python, Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn y Tensorflow. Tengo experiencia en la creación de modelos de Machine Learning en Jupyter Lab para todos los principales algoritmos/técnicas de ML y DL para aprendizaje supervisado y no supervisado, como Regresión lineal, Regresión logística, K-Nearest Neighbors, Support Vector Machines, métodos de árboles y bosques, clustering, Redes Neuronales Recurrentes y Redes Neuronales Convolucionales.
 
@@ -46,4 +47,4 @@ Antes de Tecnología estudié Comunicación y trabajé brevemente como reportero
 
 Si estás buscando un profesional  versátil que pueda aportar un conjunto de habilidades diversas y multidisciplinarias y curiosidad por las tecnologías emergentes a tu equipo, no dudes en conectarte conmigo. Exploremos cómo podemos trabajar juntos para crear soluciones novedosas que ayuden a crear un mundo mejor para todos.
 
-[Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_CV_Abril23.pdf)
+
