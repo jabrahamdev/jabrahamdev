@@ -1,5 +1,8 @@
 ### Hello Underworld! 👋 (Información en Español más abajo)
 
+
+[Resume](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_Resume_April23.pdf)
+
 My name is **Abraham**, I'm an **entry level Machine Learning-Data Engineer** based on **Mexico City**. I'm passionate about all things data. I have course projects experience with the **Data Science/Deep Learning Stack:** Python, Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, and Tensorflow. I have experience building machine learning models in Jupyter Lab for all the main ML and DL algorithms/techniques  for Supervised and Unsupervised Learning like Linear Regression, Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Trees and Forest Methods, Clustering, Recurrent Neural Networks and Convolutional Neural Networks.
 
 I'm very concerned about making machine learning available beyond the notebook space, so **I learned Fast API and BentoML for deployment of ML Models as a microservice** and also I'm currently learning tools related to the specific MLOPs cycle like MLFlow and DevOps tools for CI/CD and automation of deployment like GitHub Actions, Docker,and Kubernetes. 
@@ -20,7 +23,6 @@ Before Technology I did Communication and Media studies and worked as a reporter
 
 If you are searching for an enthusiastic and versatile professional who can bring a diverse and multidisciplinary skill set and a curiosity for emerging technologies to your team, please feel free to connect with me. Let's explore how we can work together to build novel solutions that will help make the world better for all.
 
-[Resume](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_Resume_April23.pdf)
 
 
 ____
