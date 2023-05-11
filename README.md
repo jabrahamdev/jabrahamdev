@@ -1,7 +1,7 @@
 ### Hello Underworld! 👋 (Información en Español más abajo)
 
 
-### [Resume](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_Resume_April23.pdf) :clipboard:
+### [Resume](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_Resume_May2023.pdf) :clipboard:
 
 My name is **Abraham**, I'm an **entry level Machine Learning-Data Engineer** based on **Mexico City**. I'm passionate about all things data. I have course projects experience with the **Data Science/Deep Learning Stack:** Python, Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, and Tensorflow. I have experience building machine learning models in Jupyter Lab for all the main ML and DL algorithms/techniques  for Supervised and Unsupervised Learning like Linear Regression, Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Trees and Forest Methods, Clustering, Recurrent Neural Networks and Convolutional Neural Networks.
 
@@ -27,7 +27,7 @@ If you are searching for an enthusiastic and versatile professional who can brin
 
 ____
 
-# Perfil  |  [Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_CV_Mayo23.pdf)
+# Perfil  |  [Curriculum](https://github.com/jabrahamdev/cv/blob/main/J_Abraham_Flores_CV_Mayo2023.pdf)
 
 Mi nombre es Abraham, soy un Machine Learning-Data Engineer principiante ubicado en la Ciudad de México. Tengo experiencia en proyectos de cursos con el stack de tecnologías de Data Science/Deep Learning: Python, Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn y Tensorflow. Tengo experiencia en la creación de modelos de Machine Learning en Jupyter Lab para todos los principales algoritmos/técnicas de ML y DL para aprendizaje supervisado y no supervisado, como Regresión lineal, Regresión logística, K-Nearest Neighbors, Support Vector Machines, métodos de árboles y bosques, clustering, Redes Neuronales Recurrentes y Redes Neuronales Convolucionales.
 
